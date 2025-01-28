@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lapwell/Projects/C/game_of_life/build",
+  "command": "/usr/bin/cc  -I/home/lapwell/Projects/C/game_of_life/include  -Wall -O2 -pedantic -Wextra -Wshadow -g -lraylib -lm -lpthread -ldl -lrt -std=c2x -o CMakeFiles/game_of_life.dir/src/main.c.o -c /home/lapwell/Projects/C/game_of_life/src/main.c",
+  "file": "/home/lapwell/Projects/C/game_of_life/src/main.c",
+  "output": "CMakeFiles/game_of_life.dir/src/main.c.o"
+}
+]
